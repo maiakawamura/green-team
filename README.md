@@ -1,6 +1,7 @@
 # green-team
 <!DOCTYPEhtml>
 <html>
+  <link type="text/css" rel="stylesheet" href="stylesheets/style.scss" />
   <head>
     <title>CHSGreenTeam</title>
   </head>
