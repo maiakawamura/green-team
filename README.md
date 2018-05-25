@@ -9,33 +9,31 @@
     <h1 class="Arial navy">
       Camas High School Green Team
     </h1>
+    <img src="https://mail.google.com/mail/u/0/?ui=2&ik=9bff3b955f&view=fimg&th=1631d29c61215d01&attid=0.0.1&disp=emb&attbid=ANGjdJ8FKa5smVj1F07h0YtJvAxoE3m0yOUzi1YnlefFjrPqML5oMmAIupkigc79RWUjORt5PjSFULDv1nbF-fnNamk8G2uFxAA6xCFOF15nvcanN5m8XzT6lSnPW4w&sz=w214-h170&ats=1525232705000&rm=1631d29c61215d01&zw&atsh=1">
     <p class="Arial">
-    The club for tree huggers and planet lovers and all sorts of other people. Join today!
+    Our mission is to have a greener school by certifying in Washington Green School categories in waste and recycling, transportation, water, and school grounds. Through certifying in several of these categories we accomplish our purpose of our club in which to have a cleaner and greener environment through our school, community, and youth.
     </p>
-    <img width="520" height="240" src="https://static1.visitestonia.com/images/2890339/Estonian_forest_reasons_to_visit_Sven_Zacek.jpg">
-    <p class="Arial">
-    So peaceful...
-    </p>
+    <img width="520" height="280" src="https://mail.google.com/mail/u/0/?ui=2&ik=9bff3b955f&view=att&th=1631d29c61215d01&attid=0.10&disp=safe&zw">
     <h3 class="Arial green">
     Meetings:
     </h3>
       <p class="Arial">
-      <strong>Location:</strong> Room ___
+      <strong>Location:</strong> Room 803
       <br>
-      <strong>Time:</strong> 2:15-3:00 pm
+      <strong>Time:</strong> 2:20-3:30 pm
       </p>
   <br>
-    <h2 class="Arial teal">
-    Upcoming Events:
-    </h2>
       <ul class="Arial">
-        <li><strong class="orange">Event 1:</strong> description</li>
-        <li><strong>Event 2:</strong> description</li>
-        <li><strong>Event 3:</strong> description</li>
+        <li><strong>Events:</strong> Planting trees, introducing salmon to the creeks, exterminating over populated plants to better the ecosystem, collecting plastic to recycle into wood through a TREX program, hosting enviornmental activities to educating engage youth and adults.</li>
+        <li><strong>Projects:</strong> Installing No idling signs to reduce idling before, during, and after school time.</li>
       </ul>
-    <img width="420" height="240" src="http://www.seneca-enterprises.com/files/images/tree-planting-content.jpg">
+    <img width="420" height="240" src="https://mail.google.com/mail/u/0/?ui=2&ik=9bff3b955f&view=att&th=1631d29c61215d01&attid=0.16&disp=safe&zw">
     <p class="Arial">
     Tree planting!
     </p>
+    <h3 class="Arial green">Contact Information</h3>
+    <ul class="Arial">
+      <li><strong>President:</strong>Carson Buma <a href="carson.buma.csd117.org">carson.buma.csd117.org</a>
+      <li><strong>Secretary:</strong>Desire Quidachay<a href="desire.quidachay@gmail.com">desire.quidachay@gmail.com</a>
   </body>
 </html>
