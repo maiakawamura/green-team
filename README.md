@@ -33,8 +33,8 @@
     </p>
     <h3 class="Arial green">Contact Information</h3>
     <ul class="Arial">
-      <li><strong>President:</strong>Carson Buma <a href="carson.buma.csd117.org">carson.buma.csd117.org</a>
-      <li><strong>Secretary:</strong>Desire Quidachay <a href="desire.quidachay@gmail.com">desire.quidachay@gmail.com</a>
-      <li><strong>Club Advisor:</strong>Alixandra Coker <a href="alixandra.coker@camas.wednet.edu">alixandra.coker@camas.wednet.edu</a>
+      <li><strong>President:</strong> Carson Buma <a href="carson.buma.csd117.org">carson.buma.csd117.org</a>
+      <li><strong>Secretary:</strong> Desire Quidachay <a href="desire.quidachay@gmail.com">desire.quidachay@gmail.com</a>
+      <li><strong>Club Advisor:</strong> Alixandra Coker <a href="alixandra.coker@camas.wednet.edu">alixandra.coker@camas.wednet.edu</a>
   </body>
 </html>
